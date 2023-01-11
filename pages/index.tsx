@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
-import { Navbar, Section } from '../components'
+import { Navbar, Section, Skills } from '../components'
 
 import styles from '../styles/Home.module.css'
 
@@ -19,6 +19,7 @@ const Home: NextPage = () => {
         {/*SECTION */}
         <Section/>
         {/*SKILS */}
+        <Skills/>
         {/*PROYECT */}
 
       </main>
