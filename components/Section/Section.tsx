@@ -4,6 +4,7 @@ import styles from '../../styles/Section.module.css';
 import { IoArrowForwardSharp } from "react-icons/io5";
 
 const Section = () => {
+  
   return (
     <div className={styles.section_container}>
         <div className={styles.section_left}>
