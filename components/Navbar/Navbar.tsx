@@ -1,5 +1,5 @@
 import React, { FC, useState } from 'react'
-import { FaMoon,FaBars } from "react-icons/fa";
+import { FaMoon,FaBars } from 'react-icons/fa';
 import styles from '../../styles/Navbar.module.css'
 
 const Navbar:FC = () => {

@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaJsSquare,FaReact,FaNode,FaHtml5,FaSass } from "react-icons/fa";
+import { FaJsSquare,FaReact,FaNode,FaHtml5,FaSass } from 'react-icons/fa';
 import styles from '../../styles/Skills.module.css'
 const skills = [
     {

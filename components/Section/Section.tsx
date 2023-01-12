@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import React from 'react'
 import styles from '../../styles/Section.module.css';
-import { IoArrowForwardSharp } from "react-icons/io5";
+import { IoArrowForwardSharp } from 'react-icons/io5';
 
 const Section = () => {
-  
+
   return (
     <div className={styles.section_container}>
         <div className={styles.section_left}>
