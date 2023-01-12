@@ -11,7 +11,7 @@ const Section = () => {
         <div className={styles.section_rigth}>
         </div>
         <div className={styles.section_hero}>
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-zsO-WB5sqXt2_4XGhgNqeecBwQ2dm2dTFcV4NBR0hBIK9nlKRuIz8HUwEo-eEteJBm4&usqp=CAU" alt="perfil photo" />
+          
             <h1>I'm Bastian Garces</h1>
             <p>Full Stack Developer Javascript</p>
             <button>See Projects <IoArrowForwardSharp/></button>

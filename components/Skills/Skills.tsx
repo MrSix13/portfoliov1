@@ -41,7 +41,7 @@ const Skills = () => {
         <div className={styles.skills_card_container}>
             {skills?.map(({name,icon, url}, index)=>(
                 <div key={index} className={styles.skills_card}>
-                    <img src={url} alt="logo skills" />    
+                    
                     <h2>{name}{icon}</h2>
                 </div>
             ))}
